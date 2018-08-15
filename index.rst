@@ -13,6 +13,7 @@ strengthen* some lasting
 **bonds between you and them.**
 
 Here is some new content from VS Code
+Edit from Github
 
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
